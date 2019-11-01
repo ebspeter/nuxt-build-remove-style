@@ -5,9 +5,9 @@
   "author": "",
   "private": true,
   "scripts": {
-    "dev": "nuxt --port 3002",
+    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start --port 3002",
+    "start": "nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
